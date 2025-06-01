@@ -22,7 +22,7 @@ A sleek and responsive weather detection app that displays current weather condi
 ## 👨‍💻 Author
 **VASU**  
 - GitHub: [https://github.com/vasu6369](https://github.com/vasu6369)  
-- Project Repo: [https://github.com/vasu6369/weather-detection-app](https://github.com/vasu6369/weather-detection-app)
+- Project Repo:[https://github.com/vasu6369/Weather-Detector](https://github.com/vasu6369/Weather-Detector)
 
 ---
 
