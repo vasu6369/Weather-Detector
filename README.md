@@ -5,7 +5,7 @@ A sleek and responsive weather detection app that displays current weather condi
 ---
 
 ## 🌐 Deployed Site
-🔗 [Live Demo]:[https://skysnitch.netlify.app/](https://skysnitch.netlify.app/))  
+🔗 [Live Demo]:[https://skysnitch.netlify.app/](https://skysnitch.netlify.app/)
 
 ---
 
